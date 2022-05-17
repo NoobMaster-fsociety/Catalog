@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    width: 100%;
+    height: auto;
+    background-image: url('pages/back1.png'); 
+    background-size: cover;
+    min-width: auto;
+    min-height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  
+}

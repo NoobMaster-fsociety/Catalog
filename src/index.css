@@ -1,0 +1,9 @@
+
+
+body {
+    margin: 0;
+    background-image: url('pages/back.png');
+    background-size: cover;
+    background-attachment: fixed;
+    overflow: auto;
+}
